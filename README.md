@@ -1,1 +1,1 @@
-# Pneumonia-detection-using-Machine-Learning-Algorithms.-
+# Pneumonia-detection-using-Machine-Learning-Algorithms.
